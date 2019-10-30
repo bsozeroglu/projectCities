@@ -10,12 +10,13 @@ expo kullandığım için, expo kurulu değil ise
 
 -----
 
-![WhatsApp Image 2019-10-31 at 00 29 19](https://user-images.githubusercontent.com/48731791/67900553-ccf71100-fb75-11e9-9980-551ea1d3a1aa.jpeg)
+![WhatsApp Image 2019-10-31 at 00 29 19](https://user-images.githubusercontent.com/48731791/67900718-2d864e00-fb76-11e9-9ba6-d7861c6866a6.jpeg)
 
 -----
 
-![WhatsApp Image 2019-10-31 at 00 29 19 (1)](https://user-images.githubusercontent.com/48731791/67900586-e0a27780-fb75-11e9-93cf-e4b9c29378b2.jpeg)
+![WhatsApp Image 2019-10-31 at 00 29 19 (2)](https://user-images.githubusercontent.com/48731791/67900741-3bd46a00-fb76-11e9-98df-b495bf1d9978.jpeg)
 
 -----
 
-![WhatsApp Image 2019-10-31 at 00 29 19 (2)](https://user-images.githubusercontent.com/48731791/67900604-eac47600-fb75-11e9-98bd-ebf42012fc86.jpeg)
+![WhatsApp Image 2019-10-31 at 00 29 19 (1)](https://user-images.githubusercontent.com/48731791/67900768-47c02c00-fb76-11e9-8f6c-124b8a8c704f.jpeg)
+
