@@ -10,7 +10,7 @@ expo kullandığım için, expo kurulu değil ise
 
 -----
 
-![Yeni proje](https://user-images.githubusercontent.com/48731791/67901927-0da45980-fb79-11e9-85a4-c9a3c7b76297.gif)
+![Yeni proje](https://user-images.githubusercontent.com/48731791/67902191-b3f05f00-fb79-11e9-91ef-57c551bf369e.gif)
 
 -----
 
