@@ -1,9 +1,9 @@
 # projectCities
 
-1. expo kullandığım için, expo kurulu değil ise
+expo kullandığım için, expo kurulu değil ise
      
-      npm install -g expo-cli
+          npm install -g expo-cli
      
-    npm install
+          npm install
      
-    expo start
+          expo start
